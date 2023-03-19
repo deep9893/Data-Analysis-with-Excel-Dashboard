@@ -1,5 +1,7 @@
 # Data-Analysis-with-Excel-Dashboard
 
+I have created E-Commerce Sales Dashboard using Power BI. With this dashboard, you'll have access to real-time data visualization that will help you make informed decisions about your sales strategy. Whether you're looking to analyze sales trends, identify high-performing products or sales reps, or track progress towards your sales goals, our Power BI dashboard has got you covered.
+
 
 Sample Questions
 
